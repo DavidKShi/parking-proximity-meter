@@ -190,6 +190,12 @@ Open the displayed IP address in your browser to access the live dashboard.
 
 ---
 
+# Demo
+
+https://youtube.com/shorts/OVX3D0AZ4IU
+
+---
+
 # License
 
 This project is licensed under the MIT License.
